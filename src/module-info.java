@@ -1,0 +1,2 @@
+module midtern {
+}
