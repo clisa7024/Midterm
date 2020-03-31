@@ -9,7 +9,7 @@ import midtern.Circle;
 public class CircleTest {
 
 	@Test
-	public void CircleTest() {
+	public void CircleTes() {
 		Circle c1Area = new Circle(10);
 		assertEquals(314.15, c1Area.area(), 0.01);
 	}
